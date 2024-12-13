@@ -1,0 +1,26 @@
+body {
+  background-color: #e5e7eb;
+  font-family: 'Pacifico', cursive;
+  margin: 0;
+  padding: 10px;
+}
+
+h2 {
+  margin-bottom: 25px;
+  color: #1f2937;
+  text-transform: uppercase;
+}
+
+.container {
+  max-width: 900px;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 10px;
+}
+
+.card {
+  margin-bottom: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  background: linear-gradient(135deg, #f8fafc, #e2e8f0);
+}
